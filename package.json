@@ -1,21 +1,32 @@
 {
-    "name": "Palette-Dark",
-    "displayName": "Palette",
-    "description": "A beautiful dark theme for modern screens.",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.56.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Palette",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Palette-color-theme.json"
-            }
-        ]
-    }
+  "name": "Palette-Dark",
+  "displayName": "Palette",
+  "description": "A beautiful dark theme for modern screens.",
+  "version": "0.0.1",
+  "publisher": "palette-theme",
+  "engines": {
+    "vscode": "^1.56.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zbarakzai/Palette-VSCode-Theme"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "nova pallete",
+    "palette theme"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Palette",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Palette-color-theme.json"
+      }
+    ]
+  }
 }
