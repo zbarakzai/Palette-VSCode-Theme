@@ -4,6 +4,7 @@
   "description": "A beautiful dark theme for modern screens.",
   "version": "0.1.0",
   "publisher": "palette-theme",
+  "icon": "logo.png",
   "engines": {
     "vscode": "^1.56.0"
   },
