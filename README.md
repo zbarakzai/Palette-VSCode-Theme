@@ -21,3 +21,7 @@ pattern and span the full spectrum.
 5.  Click **Install** to install it
 6.  Click **Reload** to reload the Code
 7.  From the menu bar click: Code > Preferences > Color Theme > **Palette**
+
+# Repository On Github
+
+[Visual Studio Code Palette](https://github.com/zbarakzai/Palette-VSCode-Theme/tree/master)
