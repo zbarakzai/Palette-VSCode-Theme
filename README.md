@@ -28,4 +28,4 @@ pattern and span the full spectrum.
 
 # Install From Marketplace
 
-[Visual Studio Marketplace]('https://marketplace.visualstudio.com/items?itemName=palette-theme.Palette-Dark')
+[Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=palette-theme.Palette-Dark)
