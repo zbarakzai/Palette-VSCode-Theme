@@ -1,0 +1,21 @@
+{
+    "name": "Palette-Dark",
+    "displayName": "Palette",
+    "description": "A beautiful dark theme for modern screens.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.56.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Palette",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Palette-color-theme.json"
+            }
+        ]
+    }
+}
