@@ -2,7 +2,7 @@
   "name": "Palette-Dark",
   "displayName": "Palette",
   "description": "A beautiful dark theme for modern screens.",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "palette-theme",
   "engines": {
     "vscode": "^1.56.0"
