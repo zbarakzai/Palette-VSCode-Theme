@@ -25,3 +25,7 @@ pattern and span the full spectrum.
 # Repository On Github
 
 [Visual Studio Code Palette](https://github.com/zbarakzai/Palette-VSCode-Theme/tree/master)
+
+# Install From Marketplace
+
+[Install]('https://marketplace.visualstudio.com/items?itemName=palette-theme.Palette-Dark')
