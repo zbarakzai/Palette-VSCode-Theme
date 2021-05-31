@@ -9,7 +9,7 @@ pattern and span the full spectrum.
 
 ## Visual Studio Code Palette
 
-![First Screen](first-screen.jpg) ![Second Screen](three-dark.jpg)
+![First Screen](first-screen.jpg) ![Second Screen](second-screen.jpg)
 ![Graphql](graphql.jpg) ![Typescript](typescript.jpg)
 
 # Installation
